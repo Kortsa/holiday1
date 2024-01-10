@@ -212,27 +212,20 @@ ul {
     height: 300px;
     width: 500px;
     background-position: center;
-    background-image: url(./images/rrr.jpeg);
+    background-image: url(./images/22222222222.avif);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 25px;
     margin-right: 20px;
+    /* z-index: 1; */
 }
 
-/* .content .image-container1::after{
-    content: "";
-    position: absolute;
-    width: 500px;
-    height: 300px;
-    background-color: hsl(277, 64%, 61%);
-    opacity: 0.3;
-    border-radius: 25px;
-} */
+
 
 .content .image-container1 h3 {
     color: white;
     margin: 15px;
-    font-weight: bold;
+    font-weight: bolder;
     z-index: 1;
     margin-top: 30px;
     margin-left: 30px;
